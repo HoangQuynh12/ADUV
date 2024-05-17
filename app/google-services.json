@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122961669586",
+    "project_id": "aduv-ffa99",
+    "storage_bucket": "aduv-ffa99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122961669586:android:178793fb798b12ea562c0b",
+        "android_client_info": {
+          "package_name": "com.example.aduv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4r70wb5Bnu75M0LrTnOeYPyo58NjH-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
